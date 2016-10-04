@@ -1,0 +1,2 @@
+# General-Assembly-Final-Project 
+In the spring of 2016, I took an introductory course in Python for use in Data Sciene through General Assembly Chicago. for my final project, I chose to use data provided by drivendata.org. The overall goal was to predict the possibility of an individual returning to donate blood the next time a mobile blood clinic was in there area. The project is outlined in more detail in my jupyter notebook. Any comments are greatly appreciated. 
